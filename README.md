@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Carlos 👋
+I'm an engineer and product manager currently living in Bogotá, Colombia 🇨🇴 Currently, I'm building Data & Analytics products at Blackboard (Yes, the one you used/are using at college 😉)
+
+[ℹ️ More about me &rarr;](https://cpintoval.github.io/about/) <br />
+[🖇 Links to my socials &rarr;](https://cpintoval.github.io/me) <br />
+
 
 <!--
 **cpintoval/cpintoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
