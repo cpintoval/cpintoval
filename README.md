@@ -1,7 +1,7 @@
 ---
 ### Hey, I'm Carlos 👋
 I'm an engineer and product manager currently living in Bogotá, Colombia 🇨🇴 <br />
-Right now I'm building Data & Analytics products at [Blackboard](https://www.blackboard.com/)
+Right now I'm building Data & Analytics products at [Blackboard](https://www.blackboard.com/) <br />
 [ℹ️ More about me &rarr;](https://cpintoval.github.io/about/) <br />
 [🖇 Links to my socials &rarr;](https://cpintoval.github.io/me) <br />
 
