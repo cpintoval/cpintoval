@@ -1,6 +1,6 @@
 ---
 ### Hey, I'm Carlos 👋
-Engineer and Product Manager building Data & Analytics products in the EdTech space <br />
+I'm an Engineer and Product Manager building Data & Analytics products in the EdTech space <br />
 <br />
 [ℹ️ More about me &rarr;](https://cpintoval.github.io/about/) <br />
 [🖇 Links to my socials &rarr;](https://cpintoval.github.io/me) <br />
