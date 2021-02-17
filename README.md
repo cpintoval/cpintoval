@@ -2,12 +2,12 @@
 ### Hey, I'm Carlos 👋
 I'm an Engineer and Product Manager building Data & Analytics products in the EdTech space <br />
 <br />
-[ℹ️ More about me &rarr;](https://cpintoval.github.io/about/) <br />
-[🖇 Links to my socials &rarr;](https://cpintoval.github.io/me) <br />
+<a href="https://cpintoval.github.io/about/" target="_blank">More about me &rarr;</a> <br />
+<a href="https://cpintoval.github.io/me" target="_blank">Links to my socials &rarr;</a> <br />
 
 ---
 Do you know your HTML tags? Let's see...<br />
-[🕹 Play HTML Memory Game &rarr;](https://cpintoval.github.io/html-memory)
+<a href="https://cpintoval.github.io/html-memory" target="_blank">Play HTML Memory Game &rarr;</a> <br />
 <!--
 **cpintoval/cpintoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
