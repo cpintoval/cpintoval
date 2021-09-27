@@ -1,6 +1,6 @@
 ---
 ### Hey, I'm Carlos 👋
-I'm an Engineer and Product Manager focused on Tech, Product, and Data Analytics.  <br />
+I'm an Engineer and Product Manager operating in the intersection of Software Development, Product Analytics, and Data Science.  <br />
 <a href="https://cpintoval.github.io/about/" target="_blank">More about me &rarr;</a> <br />
 <a href="https://cpintoval.github.io/me" target="_blank">Links &rarr;</a> <br />
 
